@@ -123,3 +123,4 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 st.pyplot(ci.plot())
 st.write("""*Report Summary*""")
 st.write(ci.summary(output='report'))
+
